@@ -8,7 +8,7 @@ Moreover, as more people get vaccinated and more places remove their quarantine 
 Finally, We can increase revenue based on these recommendations as a user will order more.
 
 The Data
-[https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation?select=modcloth_final_data.json](https://github.com/jayam30/AI-Powered-Size-Chart-Generator/blob/main/body_measurements_dataset.csv)
+(https://github.com/jayam30/AI-Powered-Size-Chart-Generator/blob/main/body_measurements_dataset.csv)
 
 We have chosen a dataset on Kaggle provided by Rent The Runway. It has 192,544 rows and 15 features. The features encompass various body measurements as well as age and body type. The dataset also includes information on what item was ordered and the size that the user ordered. Therefore, we will use the features regarding the body measurements, age, and body type to cluster the consumers in a meaningful group. Later, we will use the item ids and sizes to profile the clusters and recommend what size and what item users may want.
 
